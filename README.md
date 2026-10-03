@@ -41,9 +41,3 @@ I'm a software engineer interested in **agentic AI, fintech, and solid backend e
 ### GitHub Stats
 
 [![Streak Stats](https://streak-stats.demolab.com/?user=hwr12138&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### Coding & Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansonrui)
