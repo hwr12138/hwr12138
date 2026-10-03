@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anson (Hao Wen) Rui
+# Hi 👋, I'm Anson Rui
 
 ### Tesla · ex-Google Workspace · MEng ECE @ University of Waterloo
 
